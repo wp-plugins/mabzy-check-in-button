@@ -24,14 +24,9 @@ The Mabzy Check-in button allows you to check-in to the current post for Mabzy. 
 
 Follow the steps below to install the plugin.
 
-1. Upload the TweetMeme directory to the /wp-content/plugins/ directory
+1. Upload the Mabzy directory to the /wp-content/plugins/ directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to Settings/tweetmeme to configure the button
-
-== Screenshots ==
-
-1. TweetMeme Settings Page
-2. TweetMeme Button
+3. Go to Mabzy in the navigation to configure the button
 
 == Help ==
 
