@@ -2,8 +2,8 @@
 Contributors: talkingwithsean
 Tags: mabzy, twitter, check-in, friends, social
 Requires at least: 2.7.2
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 3.1
+Stable tag: 1.1
 
 == Description ==
 

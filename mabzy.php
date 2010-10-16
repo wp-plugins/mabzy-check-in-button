@@ -102,10 +102,10 @@ function ma_generate_button() {
 	$button .= '<script type="text/javascript">var mab_url = "'.$url.'";</script>';
 	// give it a height, dependant on style
     if (get_option('ma_version') == 'compact') {
-        $button .= '<script type="text/javascript" src="http://mabzy.newescapemedia.org/compact_button.js">
+        $button .= '<script type="text/javascript" src="http://mabzy.com/compact_button.js">
 				</script>';
     } else {
-		  $button .= '<script type="text/javascript" src="http://mabzy.newescapemedia.org/large_button.js"></script>';
+		  $button .= '<script type="text/javascript" src="http://mabzy.com/large_button.js"></script>';
 	}
 	// close off the iframe
 	$button .= '</div>';
