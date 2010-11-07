@@ -3,7 +3,7 @@
 Plugin Name: Mabzy Check-in Button
 Plugin URI: http://mabzy.com
 Description: Adds a check-in button relative to each post.
-Version: 1.0
+Version: 1.2
 Author: Sean Fisher
 Author URI: http://sean-fisher.com/
 
@@ -117,6 +117,8 @@ function ma_generate_button() {
 * Generates the image button
 */
 function ma_generate_static_button() {
+	return;
+	/**
 	if (get_post_status($post->ID) == 'publish') {
         $url = get_permalink();
 		return
@@ -128,6 +130,7 @@ function ma_generate_static_button() {
 	} else {
 		return;
 	}
+	**/
 }
 
 /**

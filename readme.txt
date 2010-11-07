@@ -1,9 +1,9 @@
 === Mabzy Button ===
 Contributors: talkingwithsean
 Tags: mabzy, twitter, check-in, friends, social
-Requires at least: 2.7.2
+Requires at least: 2.8
 Tested up to: 3.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 == Description ==
 
@@ -30,9 +30,11 @@ Follow the steps below to install the plugin.
 
 == Help ==
 
-For help, checkout http://mabzy.com/wordpress/.
+For help, checkout http://mabzy.com/.
 
 == Changelog ==
 
 = 1.0 =
 * Initial Release
+= 1.1 =
+* Fixes for new website bookmarklet
